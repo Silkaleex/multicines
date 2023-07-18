@@ -14,3 +14,4 @@
 ## y en la seccion de contacto que se ponga en contacto con nosotros por si surge algun problema
 ## Que tenga un administrador que gestione los problemas y en caso de que alguien se ponga en contacto con el que este pueda borrar o eliminar a un usuario
 ## Crear una base de datos para que se registren los usuarios y solo puedan acceder los usuarios a la aplicación.
+## Que tenga un inicio y cierre de sesion tanto para el usuario como el administrador
